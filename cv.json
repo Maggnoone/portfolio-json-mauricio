@@ -1,29 +1,29 @@
 {
   "basics": {
     "name": "Mauricio Andrés Garcia Goitia",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Desarrollador Full Stack | React | NextJS | Tailwind CSS | Laravel + APIs RESTFULL | Django | Siempre dispuesto a aprender 📘 💻",
     "image": "/MG_foto.png",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
+    "email": "magg.development@gmail.com",
+    "phone": "+584126532609",
+    "url": "https://maudev.42web.io",
     "summary": "Desarrollador autodidacta con la capacidad de aprender rápidamente nuevas tecnologías y usarlas de forma efectiva en la resolución de problemas. Manejo de los lenguajes de Programación JavaScript con la librería jQuery; lenguajes de etiquetas y estilos como HTML5 y CSS3, uso de los Frameworks: Bootstrap. Conocimiento en Base de Datos: MySQL, PostgreSQL, SQLite. Además de ser autodidacta, estoy en un diplomado formándome como Full Stack Web Developer en la Universidad Rafael Belloso Chacín, en lenguajes y frameworks como TypeScript, React, PostgreSQL, PHP, Laravel.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "4005",
+      "city": "Maracaibo, Edo. Zulia",
+      "countryCode": "VE",
+      "region": "Venezuela"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Mauricio Garcia",
+        "url": "https://www.linkedin.com/in/mauricio-garcia-60306527b/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Maggnoone",
+        "url": "https://github.com/Maggnoone"
       }
     ]
   },
